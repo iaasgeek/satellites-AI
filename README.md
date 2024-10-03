@@ -20,19 +20,16 @@ Satellite AI Explorer es una aplicación interactiva de visualización de datos 
 
 ## Instalación
 
-1. Clona este repositorio:
-
-git clone https://github.com/iaasgeek/satellites-AI.git
+1. Clona este repositorio: \
+git clone https://github.com/iaasgeek/satellites-AI.git \
 cd satellites-AI
 
-2. Crea un entorno virtual y actívalo:
-   
-python -m venv venv
-source venv/bin/activate 
+2. Crea un entorno virtual y actívalo: \
+python -m venv venv \
+source venv/bin/activate
 
-3. Instala las dependencias:
+3. Instala las dependencias: \
 pip install -r requirements.txt
-
 
 4. Configura tus credenciales de AWS para acceder a Amazon Bedrock.
 
@@ -48,16 +45,15 @@ streamlit run satellites.py
 
 ## Estructura del Proyecto
 
-satellite-explorer/
-│
-├── venv/
-├── data/
-│ └── UCS-Satellite-Database-1-1-2023.csv
-├── src/
-│ └── app.py
-├── requirements.txt
-└── README.md
-
+satellite-explorer/\
+│\
+├── venv/\
+├── data/\
+│ └── UCS-Satellite-Database-1-1-2023.csv\
+├── src/\
+│ └── satellites.py\
+├── requirements.txt\
+└── README.md\
 
 ## Contribuir
 
