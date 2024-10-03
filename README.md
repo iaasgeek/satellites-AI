@@ -56,13 +56,23 @@ satellite-explorer/\
 └── README.md\
 
 ## Overview
- ![Overview Aplicación] (images/Screenshot 2024-10-03 at 10.02.21.png)
- ![Overview Aplicación] (images/Screenshot 2024-10-03 at 10.02.35.png)
+<table>
+  <tr>
+    <td><img src="images/Screenshot 2024-10-03 at 10.02.21.png" alt="Satellite Quick Facts" width="200"/></td>
+    <td><img src="images/Screenshot 2024-10-03 at 10.02.35.png" alt="Ask Questions about Satellites" width="200"/></td>
+  </tr>
+  <tr>
+</table>
+
 ## Satellite Search 
-![Satellite Searchn] (images/Screenshot 2024-10-03 at 10.03.31.png)
-![Satellite Searchn] (images/Screenshot 2024-10-03 at 10.03.45.png)
-![Satellite Searchn] (images/Screenshot 2024-10-03 at 10.03.55.png)
-![Satellite Searchn] (images/Screenshot 2024-10-03 at 10.04.05.png)
+  <tr>
+    <td><img src="images/Screenshot 2024-10-03 at 10.03.31.png" alt="Satellite Search" width="200"/></td>
+    <td><img src="images/Screenshot 2024-10-03 at 10.03.45.png" alt="Satellite Orbit" width="200"/></td>
+    <td><img src="images/Screenshot 2024-10-03 at 10.03.55.png" alt="Satellite Altitude and Speed" width="200"/></td>
+    <td><img src="images/Screenshot 2024-10-03 at 10.04.05.png" alt="Ask About This Satellite" width="200"/></td>
+  </tr>
+  <tr>
+</table>
 
 ## Contribuir
 
